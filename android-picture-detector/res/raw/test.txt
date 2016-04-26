@@ -1,0 +1,6 @@
+- Se realiza una reunión donde se establece un nuevo sistema de apoyo técnico para complementar y mejorar la metodología de trabajo aplicada y así aumentar nuestro rendimiento.
+
+- Empezamos a realizar una nueva pantalla al acertar el autor con la app, donde aparezca información sobre este y la foto que se acaba de realizar. Para ello nos ponemos con la creación de una nueva Activity.
+
+
+Link:

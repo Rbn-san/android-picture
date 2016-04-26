@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quí és l\'autor?</string>
+    <string name="video_viewer">Video player</string>
+    <string name="button_new_hint">Nova pista</string>
+    <string name="button_enable_camera">Resol amb la càmera</string>
+     <string name="hint_text_view">Pista</string>
+     <string name="new_author">S\'han esgotat els intents, probem amb un altre autor</string>
+     <string name="wrong_author">Ups! Autor incorrecte</string>
+     <string name="correct_author">Correcte, has encertat!</string>
+     <string name="new_play">Joc acabat, començant una nova partida</string>
+     <string name="finished_game">Joc acabat</string>
+     <string name="cannot_read">No s\'han pogut llegir les propietats de configuració</string>
+     <string name="result_text"> Resultat:    </string>     
+     <string name="restart_game">Reiniciar el joc</string>
+     <string name="continue_game">Següent autor</string>
+     <string name="hint">Pista:</string>
+     <string name="reward">Passa pel taulell a recollir el teu regal!! ... I emporta\'t el teu llibre de ciènca ficció en lloguer.</string>
+     <string name="start_game">Començar el joc</string>
+     <string name="author_link">Llibres disponibles del autor a la biblioteca:</string>
+     <string name="quit_game">Sortir del joc</string>
+     <string name="points"></string>  
+     <string name="result_bad">Mala sort, torna a intentar-ho</string>  
+     <string name="result_regular">Casi ho tens! una mica més...</string> 
+     <string name="result_good">Molt bé, seguèix així!</string> 
+     <string name="result_excelent">Enhorabona! Ja ets tot un expert!</string> 
+     <string name="points_text">  punts </string>
+</resources>
